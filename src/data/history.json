@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Verification & Validation Engineer",
+    "organisation": "Medha Servo Drives Pvt Ltd",
+    "startDate": "Oct, 2020",
+    "endDate": "Dec, 2022",
+    "experiences": ["Software Development", "System Testing"],
+    "imageSrc": "history/msdpl.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "APSIDE TECHNOLOGIES",
+    "startDate": "May, 2018",
+    "endDate": "Jul, 2018",
+    "experiences": ["Worked on Game Development", "Designed 3rd models"],
+    "imageSrc": "history/apside.png"
+  }
+]

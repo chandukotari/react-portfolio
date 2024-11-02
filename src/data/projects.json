@@ -1,0 +1,18 @@
+[
+  {
+    "title": "My Resume",
+    "imageSrc": "projects/Resume-project.png",
+    "description": "My resume as a responsive web page.",
+    "skills": ["React", "Vite", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Expense tracker",
+    "imageSrc": "projects/expense-tracker.png",
+    "description": "This is a responsive website to make track of expenses.",
+    "skills": ["React", "Node"],
+    "demo": "https://t6xhmx-3000.csb.app/",
+    "source": "https://github.com/chandukotari/expense-tracker"
+  }
+]
