@@ -4,7 +4,7 @@
     "imageSrc": "projects/Resume-project.png",
     "description": "My resume as a responsive web page.",
     "skills": ["React", "Vite", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "index.html",
     "source": "https://www.github.com"
   },
   {
